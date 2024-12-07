@@ -12,5 +12,12 @@ Our research is about building a smart system to manage cattle using Machine Lea
 
 Disease Identification, Breed Analysis, GPS Tracking, Growth Monitoring and Milk Future Prediction in farms require various equipment and it takes a lot of time and money. As a solution to this, we use one device to perform all these tasks. This saves the cost, time and money of different devices. It increases the efficiency of firms.​
 
+# Our Components​
+
+1. Automated Breed Identification and Management System for Cattle​
+2. Monitoring Cattle Growth and Milk Recording and future prediction​
+3. Integrated Cattle Tracking, Health and ​Feeding Pattern​
+4. Pests and Diseases Identification​
+
 ​
 
