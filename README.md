@@ -19,5 +19,24 @@ Disease Identification, Breed Analysis, GPS Tracking, Growth Monitoring and Milk
 3. Integrated Cattle Tracking, Health and ​Feeding Pattern​
 4. Pests and Diseases Identification​
 
+# Overall Project Objectives
+
+Objectives :-
+1.Quick Disease Identification: Develop methods to quicly identify diseases in cattle.
+2.Breed Analysis: Analyze different cattle breeds and their traits.
+3.GPS Tracking: Implement GPS technology to track cattle locations.
+4.Growth and Health Monitoring: Monitor the growth and health of cattle.
+5.Milk Production Prediction: Predict future milk production.
+
+Sub Objectives :-
+1.Developing algorithms to detect early signs of diseases in cattle.
+2.Creating a database to store and analyze breed characteristics.
+3.Implementing GPS tracking for real-time location monitoring.
+4.Designing tools to monitor cattle growth and health metrics.
+
+
+
+
+
 ​
 
