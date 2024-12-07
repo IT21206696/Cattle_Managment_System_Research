@@ -59,6 +59,41 @@ Managing cattle involves multiple devices and significant costs, time, and effor
 
 ![image](https://github.com/user-attachments/assets/2c2b3b52-ecb8-4462-9832-f6f33a6c2f44)  
 
+## 🛠️ **Dependencies**  
+
+The following tools, libraries, and frameworks are utilized to build the system:  
+
+---
+
+### 🔧 **Software and Tools**  
+
+#### **Backend**  
+- **Python**: Core language for backend development.  
+- **TensorFlow**: For implementing machine learning models.  
+- **Google Colab**: For training and testing ML models.  
+- **Firebase**: For real-time database management.  
+
+#### **Frontend**  
+- **Flutter**: For developing a responsive and interactive mobile application.
+- 
+---
+
+### 📚 **Libraries and Frameworks**  
+
+- **Pandas**: For data manipulation and analysis.  
+- **NumPy**: For numerical computations and array processing.  
+- **Scikit-learn**: For machine learning model prototyping.  
+- **Matplotlib/Seaborn**: For visualizing health data trends.   
+
+---
+
+## 🧠 **Algorithms**  
+
+The system employs the following algorithms to enhance functionality:  
+1. **Convolutional Neural Networks (CNNs)**:  
+   - Used for disease detection and image-based analysis.  
+2. **Random Forest**:  
+   - Applied for classification tasks and predictive analytics.  
 
 
 
