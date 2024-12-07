@@ -75,7 +75,7 @@ The following tools, libraries, and frameworks are utilized to build the system:
 
 #### **Frontend**  
 - **Flutter**: For developing a responsive and interactive mobile application.
-- 
+  
 ---
 
 ### 📚 **Libraries and Frameworks**  
