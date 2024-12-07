@@ -55,6 +55,9 @@ Managing cattle involves multiple devices and significant costs, time, and effor
 
 ---
 
+## 🗺️ **Overall System Diagram**  
+
+![image](https://github.com/user-attachments/assets/2c2b3b52-ecb8-4462-9832-f6f33a6c2f44)  
 
 
 
