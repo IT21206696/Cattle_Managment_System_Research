@@ -1,5 +1,6 @@
-# 🌟 **Implementing a Digital Ecosystem for Cattle Management** 🌟  
-### 🚑 Disease Identification | 🐄 Breed Analysis | 📍 GPS Tracking | 📈 Growth Monitoring | 🥛 Milk Future Prediction
+# 🌟 **Implementing a Digital Ecosystem for Cattle Management:  Disease Identification, Breed Analysis, GPS Tracking and feed partten, Growth Monitoring and Milk Future Prediction** 🌟 ​
+
+​
 
 ---
 
