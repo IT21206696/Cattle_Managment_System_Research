@@ -57,8 +57,9 @@ Managing cattle involves multiple devices and significant costs, time, and effor
 
 ## 🗺️ **Overall System Diagram**  
 
-![image](https://github.com/user-attachments/assets/2c2b3b52-ecb8-4462-9832-f6f33a6c2f44)  
+![Cattle](https://github.com/user-attachments/assets/bc579e2f-7ae7-4264-8c87-8f357095721c)
 
+  
 ## 🛠️ **Dependencies**  
 
 The following tools, libraries, and frameworks are utilized to build the system:  
