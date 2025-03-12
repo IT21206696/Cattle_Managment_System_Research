@@ -32,7 +32,7 @@ Managing cattle involves multiple devices and significant costs, time, and effor
 
 ## 🔧 **Our Components**  
 1. **📸 Automated Breed Identification and Management System for Cattle**  
-2. **📈 Monitoring Cattle Growth, Milk Recording, and Future Prediction**  
+2. **📈 Monitoring Cattle Growth, Milk Recording and Future Prediction**  
 3. **📍 Integrated Cattle Tracking, Health, and Feeding Pattern Analysis**  
 4. **🦠 Pests and Diseases Identification**  
 
